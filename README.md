@@ -13,19 +13,24 @@
 - [Contributors](#contributors)
 
 ## Introduction
-analysis of the bakery products using association rule mining
 ---
+
+This project is a part of the course Data Analytics and Visualisation of our college.
+In this project we have displayed the analysis of the bakery dataset using colab and orange
 
 ## Content
 
 ---
 
+- The dataset which we have used is [breadbasket](https://www.kaggle.com/sulmansarwar/transactions-from-a-bakery)
+- The dataset contains about 21000 records.
+- It is first processed, then type conversion is performed and then the visualisation steps are performed and finally association rule mining is applied to obtain the rules.
 
 ## Tools
 
 ---
-- python( colab )
-- orange
+- Python( colab )
+- Orange
 
 ## Contributors
 
